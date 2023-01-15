@@ -1,0 +1,10 @@
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/rebuild_cache.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/edit_cache.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_codegen.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_slp.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/lex_parse_sources.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_parse.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_lex.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/tiger-compiler.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_semant.dir
+/home/stu/tiger-compiler/compilers-2021/build/CMakeFiles/test_translate.dir
